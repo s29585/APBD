@@ -10,9 +10,9 @@ public class Calculations
         }
         
         double sum = 0;
-        foreach (int number in numbers)
+        for (int index = 0; index < numbers.Length; index++)
         {
-            sum += number;
+            sum += numbers[index];
         }
         return sum / numbers.Length;
     }
