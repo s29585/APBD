@@ -1,0 +1,15 @@
+C:\Users\Rozalia\Desktop\pjatk\sem6\apbd\apbd\ContainersManagenement\bin\Debug\net6.0\ContainersManagenement.exe
+C:\Users\Rozalia\Desktop\pjatk\sem6\apbd\apbd\ContainersManagenement\bin\Debug\net6.0\ContainersManagenement.deps.json
+C:\Users\Rozalia\Desktop\pjatk\sem6\apbd\apbd\ContainersManagenement\bin\Debug\net6.0\ContainersManagenement.runtimeconfig.json
+C:\Users\Rozalia\Desktop\pjatk\sem6\apbd\apbd\ContainersManagenement\bin\Debug\net6.0\ContainersManagenement.dll
+C:\Users\Rozalia\Desktop\pjatk\sem6\apbd\apbd\ContainersManagenement\bin\Debug\net6.0\ContainersManagenement.pdb
+C:\Users\Rozalia\Desktop\pjatk\sem6\apbd\apbd\ContainersManagenement\obj\Debug\net6.0\ContainersManagenement.csproj.AssemblyReference.cache
+C:\Users\Rozalia\Desktop\pjatk\sem6\apbd\apbd\ContainersManagenement\obj\Debug\net6.0\ContainersManagenement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rozalia\Desktop\pjatk\sem6\apbd\apbd\ContainersManagenement\obj\Debug\net6.0\ContainersManagenement.AssemblyInfoInputs.cache
+C:\Users\Rozalia\Desktop\pjatk\sem6\apbd\apbd\ContainersManagenement\obj\Debug\net6.0\ContainersManagenement.AssemblyInfo.cs
+C:\Users\Rozalia\Desktop\pjatk\sem6\apbd\apbd\ContainersManagenement\obj\Debug\net6.0\ContainersManagenement.csproj.CoreCompileInputs.cache
+C:\Users\Rozalia\Desktop\pjatk\sem6\apbd\apbd\ContainersManagenement\obj\Debug\net6.0\ContainersManagenement.dll
+C:\Users\Rozalia\Desktop\pjatk\sem6\apbd\apbd\ContainersManagenement\obj\Debug\net6.0\refint\ContainersManagenement.dll
+C:\Users\Rozalia\Desktop\pjatk\sem6\apbd\apbd\ContainersManagenement\obj\Debug\net6.0\ContainersManagenement.pdb
+C:\Users\Rozalia\Desktop\pjatk\sem6\apbd\apbd\ContainersManagenement\obj\Debug\net6.0\ContainersManagenement.genruntimeconfig.cache
+C:\Users\Rozalia\Desktop\pjatk\sem6\apbd\apbd\ContainersManagenement\obj\Debug\net6.0\ref\ContainersManagenement.dll
