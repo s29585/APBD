@@ -4,7 +4,7 @@ public class Ship
 {
     private static int _idCounter = 1;
     private static List<Ship> _ships = new List<Ship>();
-    
+
     public int ShipId { get; private set; }
     public double MaxSpeed { get; set; }
     public int MaxContainers { get; set; }
@@ -18,7 +18,7 @@ public class Ship
         MaxContainers = maxContainers;
         MaxWeight = maxWeight;
         _containers = new List<Container>();
-        
+
         _ships.Add(this);
     }
 
@@ -36,7 +36,7 @@ public class Ship
         {
             throw new InvalidOperationException("The container is already loaded on another ship.");
         }
-        
+
         if (_containers.Count >= MaxContainers)
             throw new InvalidOperationException("The ship has reached its maximum number of containers.");
 
@@ -60,7 +60,7 @@ public class Ship
             throw new InvalidOperationException($"The container is not present on the ship {ShipId}.");
         }
     }
-    
+
     public void ReplaceContainer(Container oldContainer, Container newContainer)
     {
         if (_containers.Contains(oldContainer))
@@ -82,7 +82,7 @@ public class Ship
         targetShip.LoadContainer(container);
         Console.WriteLine($"Container {container.SerialNumber} has been transferred to ship {targetShip.ShipId}.");
     }
-    
+
     private bool IsContainerLoadedOnOtherShip(Container container)
     {
         foreach (var ship in _ships)
@@ -93,6 +93,7 @@ public class Ship
                 return true;
             }
         }
+
         return false;
     }
 
